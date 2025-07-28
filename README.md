@@ -107,8 +107,7 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
   "pesticide": "Imidacloprid",
   "precautions": "Remove infected leaves, control whitefly population"
 }
-
----
+```
 
 ## Request Full Source Access
 
