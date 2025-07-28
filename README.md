@@ -117,8 +117,6 @@ To maintain project integrity and control distribution, the complete implementat
  **To request access:**  
 Feel free to contact me via:
 
--  **Email:** [your-email@example.com]  
-- **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
-- **Google Drive (Access Request):** [Request here](https://drive.google.com/your-drive-link)
+-  **Email:** [medaramvishnu7@gmail.com]  
 
 > Access is granted for academic review, demonstration, or collaboration purposes only.
