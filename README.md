@@ -22,7 +22,7 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
 | Mobile App       | Flutter |
 | IoT Devices      | ESP32-CAM, NodeMCU, DHT11, Moisture Sensor, Relay |
 | Advisory DB      | JSON / Firebase Realtime DB |
-| Hosting          | Render/Railway/Jetson Nano, Netlify (Web), Cloudinary (optional) |
+| Hosting          | Render/Railway|
 
 ---
 
