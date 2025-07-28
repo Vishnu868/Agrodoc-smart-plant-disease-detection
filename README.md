@@ -1,4 +1,6 @@
-# 🌿 AgroDoc: Smart Plant Disease Detection System
+# 🌿 Crop Health Assessment and Disease Detection via
+ Attention-Mechanism and Smart Sensing in Precision
+ Farming
 
 An end-to-end IoT + ML system to detect plant diseases using deep learning, advise fertilizer/pesticide, and enable real-time monitoring via mobile app and ESP32-CAM integration.
 
