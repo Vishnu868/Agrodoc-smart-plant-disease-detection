@@ -107,3 +107,19 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
   "pesticide": "Imidacloprid",
   "precautions": "Remove infected leaves, control whitefly population"
 }
+
+---
+
+## Request Full Source Access
+
+This repository provides a detailed overview of the project architecture and components.  
+To maintain project integrity and control distribution, the complete implementation (including trained models, mobile app builds, firmware, and extended documentation) is available **upon request**.
+
+ **To request access:**  
+Feel free to contact me via:
+
+-  **Email:** [your-email@example.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
+- **Google Drive (Access Request):** [Request here](https://drive.google.com/your-drive-link)
+
+> Access is granted for academic review, demonstration, or collaboration purposes only.
