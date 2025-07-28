@@ -26,35 +26,42 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
 
 ---
 
-##  Project Structure
+##  Project Folder Structure
 
-Agrodoc-smart-plant-disease-detection
-┣  ML_Model/
-┃ ┣  detect.py
-┃ ┣  train.py
-┃ ┣  model_weights.pt
-┣  Backend_Flask/
-┃ ┣  app.py
-┃ ┣  static/uploads/
-┃ ┗  utils/
-┣  IoT_ESP32_CAM/
-┃ ┣  esp32_cam_capture.ino
-┃ ┗  http_post_image.ino
-┣  Flutter_App/
-┃ ┣ lib/
-┃ ┃ ┗  main.dart
-┃ ┣  screens/
-┃ ┃ ┣  home.dart
-┃ ┃ ┣  result.dart
-┃ ┃ ┗  upload.dart
-┣  Website_Interface/
-┃ ┣  index.html
-┃ ┣  style.css
-┣  Advisory_DB/
-┃ ┗  advisory.json
-┣ README.md
-┣ requirements.txt
-┗ .gitignore
+```
+📦 agrodoc-smart-plant-disease-detection/
+├── ML_Model/
+│   ├── detect.py
+│   ├── train.py
+│   ├── model_weights.pt
+│   └── requirements.txt
+├── Backend_Flask/
+│   ├── app.py
+│   ├── utils/
+│   │   └── inference.py
+│   └── static/
+│       └── uploads/
+├── IoT_ESP32_CAM/
+│   ├── esp32_cam_capture.ino
+│   └── http_post_image.ino
+├── Flutter_App/
+│   ├── lib/
+│   │   ├── main.dart
+│   │   └── screens/
+│   │       ├── home.dart
+│   │       ├── result.dart
+│   │       └── upload.dart
+│   └── pubspec.yaml
+├── Advisory_DB/
+│   └── advisory.json
+├── Website_Interface/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── .gitignore
+├── README.md
+└── LICENSE
+```
 
 ---
 
