@@ -129,7 +129,7 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
 ### 📚 Additional Illustrations
 
 ![System Architecture](screenshots/system_A.jpg)
-![Literature Summary](screenshots/literature1_1.jpg)
+![Literature Summary](screenshots/literature11.jpg)
 ![Dataset Graph](screenshots/dth.jpg)
 
 ---
