@@ -102,11 +102,6 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
 ## Outputs
 
 ### 📱 App UI Screens
-
-![App UI 1](screenshots/1_app_new.jpg)
-![App UI 2](screenshots/2_app_new.jpg)
-![App UI 3](screenshots/3_app_new.jpg)
-![App UI 4](screenshots/4_app_new.jpg)
 ![App UI 5](screenshots/11_app_neww.jpg)
 
 ---
@@ -114,7 +109,6 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
 ### 📊 Graphs & Visualizations
 
 ![Bar Graph](screenshots/bargraph_1.jpg)
-![Heat Map 1](screenshots/heat_map.jpg)
 ![Heat Map 2](screenshots/new_heatmap_1.jpg)
 ![ROC Curve](screenshots/eoc_curve.jpg)
 
@@ -122,8 +116,6 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
 
 ### 💻 Web Interface Snapshots
 
-![Web Interface 1](screenshots/web1.jpg)
-![Web Interface 2](screenshots/web2.jpg)
 ![Web Interface 3](screenshots/web3.jpg)
 
 ---
@@ -131,8 +123,6 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
 ### 🤖 Model Results & ML Flow
 
 ![ML Flow](screenshots/ml_flow.jpg)
-![Test Results 1](screenshots/test_results.jpg)
-![Test Results 2](screenshots/test_result2.jpg)
 ![Train Results](screenshots/train_results.jpg)
 
 ---
@@ -142,18 +132,6 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
 ![System Architecture](screenshots/system_A.jpg)
 ![Literature Summary](screenshots/literature1_1.jpg)
 ![Dataset Graph](screenshots/dth.jpg)
-
----
-
-## 📬 Contact for Source Files & Access
-
-If you're interested in accessing the full source files, mobile builds, trained models, or backend scripts, feel free to reach out:
-
-- 📧 **Email:** your-email@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🔗 **Request Access:** [Google Drive](https://drive.google.com/your-drive-link)
-
-> 💡 Access is provided for academic, research, and collaborative purposes.
 
 ---
 
