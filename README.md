@@ -108,8 +108,7 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
 
 ### 📊 Graphs & Visualizations
 
-![Bar Graph](screenshots/bargraph_1.jpg)
-![Heat Map 2](screenshots/new_heatmap_1.jpg)
+![Heat Map 2](screenshots/new_heatmap(1).jpg)
 ![ROC Curve](screenshots/eoc_curve.jpg)
 
 ---
@@ -123,7 +122,7 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
 ### 🤖 Model Results & ML Flow
 
 ![ML Flow](screenshots/ml_flow.jpg)
-![Train Results](screenshots/train_results.jpg)
+![Train Results](screenshots/trainresults.jpg)
 
 ---
 
