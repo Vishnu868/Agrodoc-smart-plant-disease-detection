@@ -102,35 +102,35 @@ An end-to-end IoT + ML system to detect plant diseases using deep learning, advi
 ## Outputs
 
 ### 📱 App UI Screens
-![App UI 5](screenshots/app4.jpg)
+![App UI 4](screenshots/4_app_new.jpg)
 
 ---
 
 ### 📊 Graphs & Visualizations
 
-![Heat Map 2](screenshots/new_heatmap(1).jpg)
+![Bar Graph](screenshots/bargraph.jpg)
+![Heat Map 1](screenshots/heat_map.jpg)
+![Heat Map 2](screenshots/new_heatmap.jpg)
 ![ROC Curve](screenshots/eoc_curve.jpg)
 
 ---
 
 ### 💻 Web Interface Snapshots
 
-![Web Interface 3](screenshots/web3.jpg)
-
+![Web Interface 1](screenshots/web1.jpg)
 ---
 
 ### 🤖 Model Results & ML Flow
 
 ![ML Flow](screenshots/ml_flow.jpg)
+![Test Results 1](screenshots/test_results.jpg)
 ![Train Results](screenshots/trainresults.jpg)
 
 ---
 
 ### 📚 Additional Illustrations
 
-![System Architecture](screenshots/system_A.jpg)
-![Literature Summary](screenshots/literature11.jpg)
-![Dataset Graph](screenshots/dth.jpg)
+![Literature Summary](screenshots/literature1_1.jpg)
 
 ---
 
